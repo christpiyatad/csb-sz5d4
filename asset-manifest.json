@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-sz5d4/static/js/main.c322be2c.chunk.js",
-    "main.js.map": "https://.github.io/csb-sz5d4/static/js/main.c322be2c.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-sz5d4/static/js/runtime-main.72101f8a.js",
-    "runtime-main.js.map": "https://.github.io/csb-sz5d4/static/js/runtime-main.72101f8a.js.map",
-    "static/css/2.42f61bba.chunk.css": "https://.github.io/csb-sz5d4/static/css/2.42f61bba.chunk.css",
-    "static/js/2.e162e420.chunk.js": "https://.github.io/csb-sz5d4/static/js/2.e162e420.chunk.js",
-    "static/js/2.e162e420.chunk.js.map": "https://.github.io/csb-sz5d4/static/js/2.e162e420.chunk.js.map",
-    "index.html": "https://.github.io/csb-sz5d4/index.html",
-    "static/css/2.42f61bba.chunk.css.map": "https://.github.io/csb-sz5d4/static/css/2.42f61bba.chunk.css.map",
-    "static/js/2.e162e420.chunk.js.LICENSE.txt": "https://.github.io/csb-sz5d4/static/js/2.e162e420.chunk.js.LICENSE.txt"
+    "main.js": "https://christpiyatad.github.io/csb-sz5d4/static/js/main.8ec3ab42.chunk.js",
+    "main.js.map": "https://christpiyatad.github.io/csb-sz5d4/static/js/main.8ec3ab42.chunk.js.map",
+    "runtime-main.js": "https://christpiyatad.github.io/csb-sz5d4/static/js/runtime-main.0a76086b.js",
+    "runtime-main.js.map": "https://christpiyatad.github.io/csb-sz5d4/static/js/runtime-main.0a76086b.js.map",
+    "static/css/2.42f61bba.chunk.css": "https://christpiyatad.github.io/csb-sz5d4/static/css/2.42f61bba.chunk.css",
+    "static/js/2.e162e420.chunk.js": "https://christpiyatad.github.io/csb-sz5d4/static/js/2.e162e420.chunk.js",
+    "static/js/2.e162e420.chunk.js.map": "https://christpiyatad.github.io/csb-sz5d4/static/js/2.e162e420.chunk.js.map",
+    "index.html": "https://christpiyatad.github.io/csb-sz5d4/index.html",
+    "static/css/2.42f61bba.chunk.css.map": "https://christpiyatad.github.io/csb-sz5d4/static/css/2.42f61bba.chunk.css.map",
+    "static/js/2.e162e420.chunk.js.LICENSE.txt": "https://christpiyatad.github.io/csb-sz5d4/static/js/2.e162e420.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72101f8a.js",
+    "static/js/runtime-main.0a76086b.js",
     "static/css/2.42f61bba.chunk.css",
     "static/js/2.e162e420.chunk.js",
-    "static/js/main.c322be2c.chunk.js"
+    "static/js/main.8ec3ab42.chunk.js"
   ]
 }
